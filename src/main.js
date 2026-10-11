@@ -17,7 +17,7 @@ function calculateSimpleRevenue(purchase, _product) {
 }
 /**
  * Функция для расчета бонусов
- * @param index порядковый номер в отсортированном массиве
+ * @param index порядковый номер в отсортированном массив
  * @param total общее число продавцов
  * @param seller карточка продавца
  * @returns {number}
