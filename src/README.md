@@ -1,1 +1,1 @@
-git@github.com:Tamila7111/sales-bonus.git
+https://github.com/Tamila7111/sales-bonus
